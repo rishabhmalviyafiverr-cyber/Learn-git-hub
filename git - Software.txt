@@ -1,0 +1,42 @@
+                                                      Git Sldc Class
+git
+Software,
+offline work
+work on black screen
+cloud hosting
+Change
+time travelling
+CMD
+open source
+GitHub
+ Server
+ online work
+ Track
+ UI design work
+version control system
+time travelling
+ 
+software ko ye batna kii command kis server kii id pa lejakar hit karna hai configuration
+
+Configration
+
+GitHub configuration refers to the collection of settings, rules, and identity parameters that govern how Git operates on a local machine and how an organization or repository behaves on the cloud-hosted GitHub platform
+
+two types of configuration
+
+global configuration - ek bar batana padta hai
+local configuration - bar bar batana pad ta hai
+
+Comands
+git config --global user.email "emailid"
+git config --global username "username"
+
+check command
+got config users.email
+git config user.name
+
+VS Code Command 
+git init. 
+git status.
+git add .
+git commit -m "html file created".
